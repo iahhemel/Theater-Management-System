@@ -1,0 +1,60 @@
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\bin\Debug\Theater Management.exe.config
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\bin\Debug\Theater Management.exe
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\bin\Debug\Theater Management.pdb
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater Management.csproj.AssemblyReference.cache
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater_Management.FormLogin.resources
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater_Management.FormAdminDashboard.resources
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater_Management.Properties.Resources.resources
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater_Management.FormUser.resources
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater Management.csproj.GenerateResource.cache
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater Management.csproj.CoreCompileInputs.cache
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater Management.exe
+D:\Downloads\shaon1\Hemel\final_project\Theater Management\obj\Debug\Theater Management.pdb
+D:\Downloads\C# Project\final_project\Theater Management\bin\Debug\Theater Management.exe.config
+D:\Downloads\C# Project\final_project\Theater Management\bin\Debug\Theater Management.exe
+D:\Downloads\C# Project\final_project\Theater Management\bin\Debug\Theater Management.pdb
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater Management.csproj.AssemblyReference.cache
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater_Management.FormLogin.resources
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater_Management.FormAdminDashboard.resources
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater_Management.Properties.Resources.resources
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater_Management.FormUser.resources
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater Management.csproj.GenerateResource.cache
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater Management.csproj.CoreCompileInputs.cache
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater Management.exe
+D:\Downloads\C# Project\final_project\Theater Management\obj\Debug\Theater Management.pdb
+D:\Downloads\C# Pro\final_project\Theater Management\bin\Debug\Theater Management.exe.config
+D:\Downloads\C# Pro\final_project\Theater Management\bin\Debug\Theater Management.exe
+D:\Downloads\C# Pro\final_project\Theater Management\bin\Debug\Theater Management.pdb
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater Management.csproj.AssemblyReference.cache
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater_Management.FormLogin.resources
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater_Management.FormAdminDashboard.resources
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater_Management.Properties.Resources.resources
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater_Management.FormUser.resources
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater Management.csproj.GenerateResource.cache
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater Management.csproj.CoreCompileInputs.cache
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater Management.exe
+D:\Downloads\C# Pro\final_project\Theater Management\obj\Debug\Theater Management.pdb
+D:\Downloads\shaon12\Theater Management\bin\Debug\Theater Management.exe.config
+D:\Downloads\shaon12\Theater Management\bin\Debug\Theater Management.exe
+D:\Downloads\shaon12\Theater Management\bin\Debug\Theater Management.pdb
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater Management.csproj.AssemblyReference.cache
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater_Management.FormLogin.resources
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater_Management.FormAdminDashboard.resources
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater_Management.Properties.Resources.resources
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater_Management.FormUser.resources
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater Management.csproj.GenerateResource.cache
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater Management.csproj.CoreCompileInputs.cache
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater Management.exe
+D:\Downloads\shaon12\Theater Management\obj\Debug\Theater Management.pdb
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\bin\Debug\Theater Management.exe.config
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\bin\Debug\Theater Management.exe
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\bin\Debug\Theater Management.pdb
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater Management.csproj.AssemblyReference.cache
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater_Management.FormLogin.resources
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater_Management.FormAdminDashboard.resources
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater_Management.Properties.Resources.resources
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater_Management.FormUser.resources
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater Management.csproj.GenerateResource.cache
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater Management.csproj.CoreCompileInputs.cache
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater Management.exe
+E:\Summer 25-26(6th semester)\Sir\Final\C# Sir\C# Project\Project\Theater Management\obj\Debug\Theater Management.pdb
